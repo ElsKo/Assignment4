@@ -1,2 +1,2 @@
 # Assignment4
-Assignment 4 Measuring movement
+This repository contains the markdown file, the knitted html file and the knitted pdf file of assignment 4.
